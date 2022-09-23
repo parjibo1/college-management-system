@@ -1,0 +1,17 @@
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\bin\Debug\college.exe.config
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\bin\Debug\college.exe
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\bin\Debug\college.pdb
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.csproj.AssemblyReference.cache
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.csproj.SuggestedBindingRedirects.cache
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.Form1.resources
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.Properties.Resources.resources
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.csproj.GenerateResource.cache
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.csproj.CoreCompileInputs.cache
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.exe
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.pdb
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.Longin.resources
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.MainForm.resources
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.Student.resources
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.Department.resources
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.Teacher.resources
+C:\Users\nayon\OneDrive\Desktop\project_file\c#3\college\college\obj\Debug\college.UserForm.resources
